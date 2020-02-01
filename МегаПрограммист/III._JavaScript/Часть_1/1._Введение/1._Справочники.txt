@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-08T11:49:27+08:00
+
+====== 1. Справочники ======
+Создан Воскресенье 08 декабря 2019
+
+ https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference.
+
+http://msdn.microsoft.com/
+
+Таблица совместимости
+http://caniuse.com/
+https://kangax.github.io/compat-table

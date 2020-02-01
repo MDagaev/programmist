@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-08T12:26:12+08:00
+
+====== 17.Особенности JS ======
+Создан Воскресенье 08 декабря 2019
+

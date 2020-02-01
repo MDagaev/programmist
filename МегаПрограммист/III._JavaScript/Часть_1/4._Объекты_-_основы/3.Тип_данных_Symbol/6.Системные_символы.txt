@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-11T18:56:39+08:00
+
+====== 6.Системные символы ======
+Создан Среда 11 декабря 2019
+
+Существует множество «системных» символов, использующихся внутри самого JavaScript, и мы можем использовать их, чтобы настраивать различные аспекты поведения объектов.
+
+Эти символы перечислены в спецификации в таблице Well-known symbols:
+
+**Symbol.hasInstance**
+**Symbol.isConcatSpreadable**
+**Symbol.iterator**
+**Symbol.toPrimitive**

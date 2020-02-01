@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-13T19:39:03+08:00
+
+====== 1.Symbol.toPrimitive ======
+Создан Пятница 13 декабря 2019
+
+**obj[Symbol.toPrimitive] = function(hint) {**
+  // должен вернуть примитивное значение
+  // hint равно чему-то одному из: "string", "number" или "default"
+**};**

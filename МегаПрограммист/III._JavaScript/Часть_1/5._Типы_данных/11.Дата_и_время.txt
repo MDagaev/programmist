@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-01-20T23:57:20+08:00
+
+====== 11.Дата и время ======
+Создан Понедельник 20 января 2020
+

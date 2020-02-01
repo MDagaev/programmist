@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-07T19:59:18+08:00
+
+====== III. JavaScript ======
+Создан Суббота 07 декабря 2019
+
+https://learn.javascript.ru/

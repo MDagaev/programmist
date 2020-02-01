@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-07T20:26:10+08:00
+
+====== Часть 3 ======
+Создан Суббота 07 декабря 2019
+

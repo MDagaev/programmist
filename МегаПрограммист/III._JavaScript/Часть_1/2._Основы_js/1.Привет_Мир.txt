@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-08T12:05:05+08:00
+
+====== 1.Привет Мир ======
+Создан Воскресенье 08 декабря 2019
+
+<script>
+	alert( 'Привет, мир!' );
+  </script>
+
+type="text/javascript" - используется для модулей
+
+<script src="/path/to/script.js"></script>  - для подключения внешних скриптов 

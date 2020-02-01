@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-13T20:06:17+08:00
+
+====== 5.Создание методов в конструкторе ======
+Создан Пятница 13 декабря 2019
+
+в примере ниже, **new User(name)** создаёт объект со свойством **name** и **методом sayHi:**
+
+**function User(name) {**
+**  this.name = name;**
+
+**  this.sayHi = function() {**
+**    alert( "Меня зовут: " + this.name );**
+**  };**
+**}**
+
+**let vasya = new User("Вася");**
+
+**vasya.sayHi(); // Меня зовут: Вася**
+
+/*
+vasya = {
+   name: "Вася",
+   sayHi: function() { ... }
+}
+*/

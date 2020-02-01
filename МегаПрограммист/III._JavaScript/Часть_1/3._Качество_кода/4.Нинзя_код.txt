@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-08T16:56:38+08:00
+
+====== 4.Нинзя код ======
+Создан Воскресенье 08 декабря 2019
+
+https://learn.javascript.ru/ninja-code

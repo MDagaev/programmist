@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-08T16:58:15+08:00
+
+====== 5.Автотест-ие фреймворк Mocha ======
+Создан Воскресенье 08 декабря 2019
+
+https://learn.javascript.ru/testing-mocha
+Behavior Driven Development (BDD)
+BDD – это три в одном: и тесты, и документация, и примеры использования.

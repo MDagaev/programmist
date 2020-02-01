@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-01-20T23:50:52+08:00
+
+====== 5.Методы массивов ======
+Создан Понедельник 20 января 2020
+
